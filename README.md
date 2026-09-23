@@ -11,13 +11,6 @@ Cada pasta representa um tópico do curso, numerada em ordem de aprendizado:
 - `03-tags-sem-conteudo` - hr, br, img
 - `04-comentarios` - como e quando comentar código
 
-## Objetivo
-
-Consolidar os fundamentos de HTML antes de avançar para CSS e JavaScript, praticando:
-- Semântica correta de tags
-- Estrutura de documento válida (W3C)
-- Boas práticas de nomenclatura e organização de arquivos
-
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
